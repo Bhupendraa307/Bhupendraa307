@@ -5,9 +5,9 @@
 
 ---
 
-🔭 I'm currently working on **AcademiaPro & Weather Applications**
+🔭 I'm currently working on **CryptoRadar- a MERN Stack application for maintaining all assets**
 
-🌱 I'm currently learning **React.js, Python & Data Structures**
+🌱 I'm currently learning **Python & Data Structure**
 
 👨‍💻 I'm looking for help with **Advanced JavaScript, DSA, and AI/ML**
 
@@ -19,7 +19,7 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/bhupendra-singh-dev" target="blank">
+<a href="https://linkedin.com/in/bhupendraa307" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 <a href="https://twitter.com/bhupendra_dev" target="blank">
