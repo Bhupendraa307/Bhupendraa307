@@ -1,5 +1,5 @@
-# Hi 👋, I'm Bhupendra Singh
-### Frontend Developer & Problem Solver
+# Hi 👋, I'm Bhupendra Kumar Chouhan
+### Full Stack Developer & Problem Solver
 
 **Passionate to learn Artificial Intelligence and Machine Learning**
 
